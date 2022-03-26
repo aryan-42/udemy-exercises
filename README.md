@@ -1,2 +1,2 @@
 # udemy-exercises
-This repository is to keep track of all the exercises solved by me thorough out the Java Course.
+This repository is to keep track of all the exercises solved by me through out the Java Course.
